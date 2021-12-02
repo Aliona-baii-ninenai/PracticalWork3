@@ -1,1 +1,1 @@
-# PracticalWork3
+# cpp-lab3-sb-bsu
